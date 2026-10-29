@@ -41,3 +41,7 @@ git reflog                  # 后悔药：看所有 HEAD 移动记录
 git rm <file>               # 删除文件并暂存
 git push                    # 推送到 GitHub
 ```
+
+## 更新记录
+
+- 2026-10-29：完成 SSH 配置、git remote add origin 与 git push -u origin main，本地仓库与 GitHub 同步。
