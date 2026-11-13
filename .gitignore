@@ -1,0 +1,12 @@
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.tmp
+*.log
+~$*
+
+# Python 缓存（万一以后写脚本）
+__pycache__/
+*.pyc
